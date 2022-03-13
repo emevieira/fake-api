@@ -35,5 +35,19 @@
       "password": "teste1234",
       "phone": "65999999999"
     }
+  ],
+  "newPass": [
+    {
+      "pass": "n001",
+      "tipo": "normal"
+    },
+    {
+      "pass": "p001",
+      "tipo": "preferencial"
+    },
+    {
+      "pass": "e001",
+      "tipo": "especial"
+    }
   ]
 }
