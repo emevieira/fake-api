@@ -36,18 +36,46 @@
       "phone": "65999999999"
     }
   ],
-  "newPass": [
+  "preferencial": [
     {
-      "pass": "n001",
-      "tipo": "normal"
-    },
-    {
-      "pass": "p001",
+      "pass": "001",
       "tipo": "preferencial"
     },
     {
-      "pass": "e001",
+      "pass": "002",
+      "tipo": "preferencial"
+    },
+    {
+      "pass": "003",
+      "tipo": "preferencial"
+    }
+  ],
+  "especial": [
+    {
+      "pass": "001",
       "tipo": "especial"
+    },
+    {
+      "pass": "002",
+      "tipo": "especial"
+    },
+    {
+      "pass": "003",
+      "tipo": "especial"
+    }
+  ],
+  "normal": [
+    {
+      "pass": "001",
+      "tipo": "normal"
+    },
+    {
+      "pass": "002",
+      "tipo": "normal"
+    },
+    {
+      "pass": "003",
+      "tipo": "normal"
     }
   ]
 }
