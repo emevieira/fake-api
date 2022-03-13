@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Thiago da Silva",
+      "email": "thiago@example.com",
+      "password": "teste1234",
+      "phone": "65999999999"
+    },
+    {
+      "id": 1,
+      "name": "Maria Fernanda Pessoa",
+      "email": "maria@example.com",
+      "password": "teste1234",
+      "phone": "65999999999"
+    },
+    {
+      "id": 1,
+      "name": "Carlos Albuquerque",
+      "email": "carlos@example.com",
+      "password": "teste1234",
+      "phone": "65999999999"
+    },
+    {
+      "id": 1,
+      "name": "Sandro Oliveira",
+      "email": "sandro@example.com",
+      "password": "teste1234",
+      "phone": "65999999999"
+    },
+    {
+      "id": 1,
+      "name": "Ingridy Martins",
+      "email": "ingridy@example.com",
+      "password": "teste1234",
+      "phone": "65999999999"
+    }
+  ]
+}
